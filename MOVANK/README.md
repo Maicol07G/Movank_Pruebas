@@ -32,10 +32,3 @@ npm install
 npm run dev -- --host
 ```
 
-## Variables
-Copiar `.env.example` como `.env` y ajustar si es necesario.
-
-## Decisiones
-Consultar `docs/DECISIONS.md` y `docs/API.md`.
-
-> Nota: esta base está diseñada para estudiar y completar la prueba de forma entendible. Antes de entregar, ejecutar las pruebas y revisar cada decisión.
